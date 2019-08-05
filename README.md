@@ -6,4 +6,4 @@ Press any key to lift the aircraft.
   
 GithubPages  
 https://touei10.github.io/HorizontalScroll/index.html
->画像素材は　<いらすとや>　<ニコニ・コモンズ>　からお借りさせていただきました。  
+>画像素材は　<いらすとや>　<ニコニ・コモンズ>　からお借りさせていただきました。
